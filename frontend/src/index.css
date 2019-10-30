@@ -1,0 +1,10 @@
+
+  body {
+    font-family: 'Nunito';
+    /* background: #6a7a8b;
+    background: linear-gradient(to right, rgba(49, 62, 73, 0.938), rgba(113, 174, 182, 0.897)); */
+    background:rgba(207, 216, 220, 0.719);
+    background: linear-gradient(to right,rgba(207, 216, 220, 0.719), rgba(159, 179, 182, 0.897));
+  }
+
+
